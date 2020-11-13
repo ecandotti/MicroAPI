@@ -16,7 +16,7 @@ app.use(bodyParser.json())
 
 routes(app)
 
-app.use(express.static('public')) //Donner l'acces à des fichiers statics
+app.use(express.static('public')) //Donner l'acces à des fichiers statics dans le dossier 'public'
 
 app.get('/', (req, res) => 
     res.send('Serveur Node & Express sur port ' + PORT)
