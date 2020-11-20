@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img height="100" hidth="100" src="https://cdn.pixabay.com/photo/2014/11/17/18/10/gears-534991_1280.jpg">
+    <img height="200" hidth="200" src="https://cdn.pixabay.com/photo/2018/09/24/18/40/board-3700573_1280.jpg">
 </h1>
 
 # :gear: - API REST
